@@ -9,4 +9,4 @@ Username: admin
 
 Password: rahasia
 
-This app is a full-stack web application for managing academic activities in university (grades, finance, student, lecturer, learning materials, etc), including user authentication, data management, and role-based access. I personally built the frontend UI, backend APIs, database integration, authentication flow, and deployment setup.
+This app is a full-stack web application for managing academic activities in university (grades, finance, student, lecturer, learning materials, etc), including user authentication, data management, and role-based access. I personally built the frontend UI, backend APIs, postgresql architecture design, authentication flow, and deployment setup.
